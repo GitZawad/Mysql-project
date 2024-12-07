@@ -2,6 +2,8 @@
 
 This project is a MySQL-based solution designed to showcase common operations on employee data. It demonstrates the use of relational database operations, focusing on employee details, salaries, department assignments, and hierarchical relationships like supervisors.
 
+The project was done using the employees database from https://github.com/datacharmer/test_db
+
 ## **Features**
 
 *This project includes solutions to the following questions:*
